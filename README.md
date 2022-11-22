@@ -12,6 +12,6 @@ We made some slight modifications to the demo code to make it run.
 ## Goal: Predict Oil Prices with Time Series News Article Data
 
 ## Envrionment Set Up
-`conda create --name torch`
-`conda activate torch`
-`pip install -r requirements.txt`
+* `conda create --name torch`
+* `conda activate torch`
+* `pip install -r requirements.txt`
