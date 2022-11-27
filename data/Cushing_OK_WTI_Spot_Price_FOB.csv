@@ -1,8 +1,4 @@
-Cushing OK WTI Spot Price FOB
-https://www.eia.gov/dnav/pet/hist/RWTCD.htm
-21:27:02 GMT-0800 (Pacific Standard Time)
-Data Source: Thomson Reuters
-Day,Cushing OK WTI Spot Price FOB  Dollars per Barrel
+date,price
 11/21/2022,79.74
 11/18/2022,80.07
 11/17/2022,81.69
